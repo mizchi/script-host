@@ -2,6 +2,6 @@
   "name": "@mizchi/script-host",
   "version": "0.0.1",
   "exports": {
-    "./": "./main.ts"
+    ".": "./main.ts"
   }
 }

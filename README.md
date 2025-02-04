@@ -1,6 +1,6 @@
 # @mizchi/script-host
 
-Just host js script with rebuild
+Just host js script with rebuild for bookmarklet dev
 
 ## How to use
 
